@@ -658,8 +658,8 @@ export default function WeLovePDF() {
               <span className="font-medium text-sm sm:text-base">Made with love for smart PDF conversion</span>
             </div>
             <p className="text-xs sm:text-sm text-gray-600 max-w-2xl mx-auto">
-              © 2024 WELOVE PDF. All conversions are processed locally in your browser for maximum privacy. Smart
-              recommendations powered by AI analysis.
+              © 2025 WELOVE PDF. All conversions are processed locally in your browser for maximum privacy. Smart
+              recommendations powered by <a href="https://github.com/RacoonHQ" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">RacoonHQ</a>.
             </p>
           </div>
         </div>

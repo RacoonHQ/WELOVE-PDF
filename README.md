@@ -116,7 +116,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is free to use for personal and commercial purposes. You can use, modify, and distribute the software, but you must include the original copyright notice and give appropriate credit to the original author.
 
 ## 👥 Team
 
