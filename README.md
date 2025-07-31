@@ -23,7 +23,7 @@ A modern web application for managing and viewing PDF files with a clean, user-f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RacoonHQ/WELOVE-PDF---Convert-PDF-To-Many-Formats.git
+   git clone https://github.com/RacoonHQ/WELOVE-PDF.git
    cd WELOVE_PDF
    ```
 
